@@ -24,7 +24,7 @@ Training data is divided into two main subsets: traffic signs from Belgium and f
 <br />
 
 <div align="center">
-  <img src="ConfMat.png" width="400px">
+  <img src="ConfMat.png" width="600px">
 </div>
 
 <br />
